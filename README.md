@@ -1,5 +1,5 @@
 # CollegesLibraryManger
-图书管理系统 计算机毕业设计 角色：学生、教师、管理员；亮点：AI助手、协同过滤算法、腾讯地图api、Echarts图形化分析；
+图书管理系统 计算机毕业设计 角色：学生、教师、管理员；亮点：AI助手、协同过滤算法、腾讯地图api、Echarts图形化分析、二维码识别；
 
 所有源码均本人开发，项目是前后端分离的，所有的项目都具备了完整的业务逻辑，不仅仅局限于基础的增删改查（CRUD）操作，系统亮点众多。
 
@@ -12,7 +12,7 @@
 2.由本人开发，如需源码，请联系以下方式，qq:2112698948。
 
 3.项目有很多，并未全部上传，如果未找到想要的，可直接咨询。
-<font style="color:#117cee;">🎈</font><font style="color:#117cee;">系统亮点：AI助手、协同过滤算法、腾讯地图api、Echarts图形化分析；</font>
+<font style="color:#117cee;">🎈</font><font style="color:#117cee;">系统亮点：AI助手、协同过滤算法、腾讯地图api、Echarts图形化分析；、二维码识别</font>
 
 # <font style="color:#48b378;">一.系统开发工具与环境搭建</font>
 ## <font style="color:#262626;">1.系统设计开发工具</font>
